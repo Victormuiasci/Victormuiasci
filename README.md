@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Victor Muia sci
+- 👋 Hi, I’m Victor Muia from Nairobi, Kenya
 - 👀 I’m interested in problem solving using technology
 - 🌱 I’m currently learning JAVA programing
 - 💞️ I’m looking to collaborate on any interesting project serving the community
